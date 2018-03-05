@@ -1,4 +1,4 @@
-# CarND-LaneLines-P1
+# CarND LaneLines P1
 
 ## Introduction
 
@@ -29,7 +29,6 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 One potential shortcoming would be what would happen when the vehicle makes a turn.
 
 Another shortcoming could be that it can not deal with the situation when the car run in the bad weather or in the night
-
 
 ### 3. Possible improvements to the pipeline
 
